@@ -60,6 +60,7 @@ Your goal is to:
 
 ### Explanation:
 Convert all elements to 6:
+
 • 2 -->6(2 steps)
 • 4 -->6(1 step)
 • 6 -->6(0 step)
