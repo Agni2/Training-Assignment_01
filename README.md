@@ -66,4 +66,5 @@ Convert all elements to 6:
 • 6 -->6(0 step)
 • 8 -->6(1 step)
 • 10 -->6(2 steps)
+
 Total operations = 6
